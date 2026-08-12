@@ -26,18 +26,19 @@ venue:
 
 author:
  -
-- ins: M. Richardson
-  name: Michael C. Richardson
-  role: editor
-  org: Sandelman Software
-  email:
-  - mcr+ietf@sandelman.ca
-  - https://orcid.org/0000-0002-0773-8388
-  uri: https://www.sandelman.ca/
+ - ins: M. Richardson
+   name: Michael C. Richardson
+   role: editor
+   org: Sandelman Software
+   email:
+     - mcr+ietf@sandelman.ca
+     - https://orcid.org/0000-0002-0773-8388
+   uri: https://www.sandelman.ca/
 
 normative:
   RFC8995: BRSKI
   RFC8994: ACP
+  EST: RFC7030
   RFC8366bis: draft-ietf-anima-rfc8366bis
 
 informative:
