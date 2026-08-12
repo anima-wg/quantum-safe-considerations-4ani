@@ -3,7 +3,7 @@ title: "Quantum Safe (PQ) Considerations for Autonomic Network Infrastructure (A
 abbrev: "ani-qs"
 category: std
 
-docname: draft-richardson-anima-quantum-safe-considerations-4ani-latest
+docname: draft-richardson-anima-quantum-safe-4ani-latest
 submissiontype: IETF
 number:
 date:
