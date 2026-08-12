@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                              Y. N. Here
+Autonomic Networking Integrated Model and Approach            Y. N. Here
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                            12 August 2026
 Expires: 13 February 2027
 
 
                            TODO - Your title
-                  draft-todo-yourname-protocol-latest
+     draft-richardson-anima-quantum-safe-considerations-4ani-latest
 
 Abstract
 
@@ -19,17 +19,20 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   The latest revision of this draft can be found at https://anima-
+   wg.github.io/quantum-safe-considerations-4ani/draft-richardson-anima-
+   quantum-safe-considerations-4ani.html.  Status information for this
+   document may be found at https://datatracker.ietf.org/doc/draft-
+   richardson-anima-quantum-safe-considerations-4ani/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the Autonomic Networking
+   Integrated Model and Approach Working Group mailing list
+   (mailto:anima@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/anima/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/anima/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/anima-wg/quantum-safe-considerations-4ani.
 
 Status of This Memo
 
